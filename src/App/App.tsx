@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react';
-import { List } from './components/list';
-import { Search } from './components/search';
+import { List } from '../components/list';
+import { Search } from '../components/search';
 
 const data = ['first', 'second', 'third'];
 
